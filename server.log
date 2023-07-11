@@ -1,0 +1,21 @@
+2023-07-11 18:52:24 [INFO] Starting minecraft server version 1.6.4
+2023-07-11 18:52:24 [INFO] Loading properties
+2023-07-11 18:52:24 [INFO] Default game type: SURVIVAL
+2023-07-11 18:52:24 [INFO] Generating keypair
+2023-07-11 18:52:24 [INFO] Starting Minecraft server on *:25565
+2023-07-11 18:52:24 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2023-07-11 18:52:24 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2023-07-11 18:52:24 [INFO] Preparing level "world"
+2023-07-11 18:52:24 [INFO] Preparing start region for level 0
+2023-07-11 18:52:25 [INFO] Preparing spawn area: 26%
+2023-07-11 18:52:26 [INFO] Preparing spawn area: 49%
+2023-07-11 18:52:27 [INFO] Preparing spawn area: 82%
+2023-07-11 18:52:28 [INFO] Done (3.700s)! For help, type "help" or "?"
+2023-07-11 18:52:34 [INFO] Stopping server
+2023-07-11 18:52:34 [INFO] Saving players
+2023-07-11 18:52:34 [INFO] Saving worlds
+2023-07-11 18:52:34 [INFO] Closing listening thread
+2023-07-11 18:52:34 [INFO] Saving chunks for level 'world'/Overworld
+2023-07-11 18:52:39 [INFO] Saving chunks for level 'world'/Nether
+2023-07-11 18:52:39 [INFO] Saving chunks for level 'world'/The End
+2023-07-11 18:52:40 [INFO] Stopping server
