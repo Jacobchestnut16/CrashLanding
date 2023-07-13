@@ -19,3 +19,185 @@
 2023-07-11 18:52:39 [INFO] Saving chunks for level 'world'/Nether
 2023-07-11 18:52:39 [INFO] Saving chunks for level 'world'/The End
 2023-07-11 18:52:40 [INFO] Stopping server
+2023-07-11 19:07:12 [INFO] Starting minecraft server version 1.6.4
+2023-07-11 19:07:12 [INFO] Loading properties
+2023-07-11 19:07:12 [INFO] Default game type: SURVIVAL
+2023-07-11 19:07:12 [INFO] Generating keypair
+2023-07-11 19:07:12 [INFO] Starting Minecraft server on *:25565
+2023-07-11 19:07:12 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2023-07-11 19:07:12 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2023-07-11 19:07:12 [INFO] Preparing level "world"
+2023-07-11 19:07:12 [INFO] Preparing start region for level 0
+2023-07-11 19:07:12 [SEVERE] Item entity 0 has no item?!
+2023-07-11 19:07:13 [SEVERE] Item entity 1 has no item?!
+2023-07-11 19:07:13 [SEVERE] Item entity 2 has no item?!
+2023-07-11 19:07:13 [WARNING] Skipping Entity with id PneumaticCraft.Special Item Entity
+2023-07-11 19:07:13 [WARNING] Skipping Entity with id PneumaticCraft.Special Item Entity
+2023-07-11 19:07:13 [WARNING] Skipping Entity with id PneumaticCraft.Special Item Entity
+2023-07-11 19:07:13 [WARNING] Skipping TileEntity with id cofh.thermalexpansion.Transposer
+2023-07-11 19:07:13 [WARNING] Skipping TileEntity with id cofh.thermalexpansion.Transposer
+2023-07-11 19:07:13 [WARNING] Skipping TileEntity with id seatTile
+2023-07-11 19:07:13 [WARNING] Skipping TileEntity with id cofh.thermalexpansion.Strongbox
+2023-07-11 19:07:13 [WARNING] Skipping TileEntity with id TileEntityAphorismTile
+2023-07-11 19:07:13 [WARNING] Skipping TileEntity with id TileEntityAphorismTile
+2023-07-11 19:07:13 [WARNING] Skipping TileEntity with id Armor.DryingRack
+2023-07-11 19:07:13 [WARNING] Skipping TileEntity with id TileEntityAphorismTile
+2023-07-11 19:07:13 [WARNING] Skipping TileEntity with id seatTile
+2023-07-11 19:07:13 [WARNING] Skipping TileEntity with id Armor.DryingRack
+2023-07-11 19:07:13 [WARNING] Skipping TileEntity with id Armor.DryingRack
+2023-07-11 19:07:13 [WARNING] Skipping TileEntity with id BookcaseTile
+2023-07-11 19:07:13 [WARNING] Skipping TileEntity with id cofh.thermalexpansion.Strongbox
+2023-07-11 19:07:13 [WARNING] Skipping Entity with id PneumaticCraft.Special Item Entity
+2023-07-11 19:07:13 [WARNING] Skipping Entity with id PneumaticCraft.Special Item Entity
+2023-07-11 19:07:13 [WARNING] Skipping Entity with id PneumaticCraft.Special Item Entity
+2023-07-11 19:07:13 [WARNING] Skipping Entity with id PneumaticCraft.Special Item Entity
+2023-07-11 19:07:13 [INFO] Done (0.977s)! For help, type "help" or "?"
+2023-07-11 19:09:09 [SEVERE] Reached end of stream for /10.187.1.112
+2023-07-11 19:09:13 [INFO] Giacobbe_Huusk[/10.187.1.112:56903] logged in with entity id 30 at (-143.50289076429996, 73.0, -226.92649075644007)
+2023-07-11 19:09:13 [INFO] Giacobbe_Huusk joined the game
+2023-07-11 19:09:19 [INFO] Giacobbe_Huusk fell from a high place
+2023-07-11 19:33:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 19:33:33 [INFO] Giacobbe_Huusk lost connection: disconnect.genericReason
+2023-07-11 19:33:33 [INFO] Giacobbe_Huusk left the game
+2023-07-11 19:34:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 19:51:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 19:56:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 19:58:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 20:05:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 20:06:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 20:21:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 20:24:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 20:25:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 20:28:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 20:35:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 20:40:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 20:41:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 20:53:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 21:01:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 21:10:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 21:12:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 21:18:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 21:28:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 21:32:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 21:50:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 22:07:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 22:15:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 22:16:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 22:32:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 22:37:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 22:52:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 23:00:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 23:00:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 23:27:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 23:30:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 23:33:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 23:36:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-11 23:51:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 00:00:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 00:11:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 00:27:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 00:36:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 00:38:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 00:38:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 00:39:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 00:39:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 00:58:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 01:10:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 01:12:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 01:14:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 01:15:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 01:23:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 01:39:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 01:56:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 02:01:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 02:02:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 02:20:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 02:38:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 02:53:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 03:09:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 03:26:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 03:43:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 03:56:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 04:13:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 04:28:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 04:46:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 04:48:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 04:49:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 04:50:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 04:54:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 05:09:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 05:25:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 05:42:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 05:59:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 06:15:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 06:31:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 06:47:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 07:04:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 07:21:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 07:29:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 07:44:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 08:00:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 08:09:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 08:24:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 08:41:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 08:57:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 09:00:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 09:16:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 09:24:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 09:40:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 09:42:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 09:58:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 09:59:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 10:04:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 10:04:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 10:13:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 10:15:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 10:15:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 10:17:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 10:18:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 10:22:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 10:26:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 10:41:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 10:42:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 10:59:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 11:02:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 11:07:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 11:07:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 11:20:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 11:23:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 11:23:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 11:33:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 11:36:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 11:36:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 11:40:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 11:50:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 12:00:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 12:14:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 12:18:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 12:30:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 12:34:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 12:39:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 12:47:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 12:56:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 12:56:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 13:02:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 13:07:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 13:18:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 13:20:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 13:24:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 13:27:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 13:41:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 13:48:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 13:49:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 13:54:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2023-07-12 13:54:57 [INFO] Stopping server
+2023-07-12 13:54:57 [INFO] Saving players
+2023-07-12 13:54:57 [INFO] Saving worlds
+2023-07-12 13:54:57 [INFO] Saving chunks for level 'world'/Overworld
+2023-07-12 13:54:57 [INFO] Closing listening thread
+2023-07-12 13:54:57 [INFO] Saving chunks for level 'world'/Nether
+2023-07-12 13:54:57 [INFO] Saving chunks for level 'world'/The End
+2023-07-12 13:54:57 [INFO] Stopping server
+2023-07-12 13:54:57 [INFO] Saving players
+2023-07-12 13:54:57 [INFO] Saving worlds
+2023-07-12 13:54:57 [INFO] Saving chunks for level 'world'/Overworld
